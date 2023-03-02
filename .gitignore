@@ -130,3 +130,6 @@ dmypy.json
 
 # Mac folder files
 .DS_Store
+
+# hiding credential
+.secrets
